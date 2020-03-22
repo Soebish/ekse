@@ -1,2 +1,2 @@
 cd jenglot
-php go.php
+php go.php | lolcat
